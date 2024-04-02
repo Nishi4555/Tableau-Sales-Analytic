@@ -12,6 +12,10 @@ The Sales Analytic Dashboard is a comprehensive data visualization tool designed
 - Drill-down capabilities to analyze specific sales metrics in detail
 - Dynamic filters for customizing data views
 - Comparative analysis of sales performance over time or across different regions/products
+- **YoY Growth Analysis:** Visualize and analyze Year-over-Year growth for different product categories and regions.
+- **Current Sales Overview:** Get a real-time snapshot of current sales performance with intuitive visualizations.
+- **Top Products and Categories:** Identify top-performing products and categories based on sales data.
+- **Interactive Filters:** Utilize interactive filters and slicers for a personalized exploration of the d
 
 ## Installation Instructions
 To view the Sales Analytic Dashboard:
